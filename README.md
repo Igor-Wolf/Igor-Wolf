@@ -17,14 +17,3 @@ Olá, meu nome é Igor e sou formado em Engenharia Civil. Minha paixão em progr
 ## GitHub stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Igor-Wolf&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
-<a href="https://github.com/Igor-Wolf/Programa-de-cadastro-de-produtos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Wolf&repo=Programa-de-cadastro-de-produtos" />
-</a>
-
-<a href="https://github.com/Igor-Wolf/Programa-de-Hotelaria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Wolf&repo=Programa-de-Hotelaria" />
-</a>
