@@ -1,6 +1,6 @@
 # Igor Reis Barbosa
 
-Olá, meu nome é Igor e sou formado em Engenharia Civil. Minha paixão em programar começou quando fui monitor na matéria de Programação durante a graduação. Desde então me considero um entusiasta na área e busco sempre novas formas de aprender, mesmo sem tutores. 
+Olá, meu nome é Igor e sou formado em Engenharia Civil. Inclinação na área de programação começou quando fui monitor na matéria de Programação durante a graduação. Desde então me considero um entusiasta na área e busco sempre novas formas de aprender, mesmo sem tutores. 
 
 ## 🔗 Conecte-se comigo
 
