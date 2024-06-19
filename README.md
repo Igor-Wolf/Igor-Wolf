@@ -16,4 +16,4 @@ Olá, meu nome é Igor e sou formado em Engenharia Civil. Inclinação na área 
 
 ## GitHub stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Igor-Wolf&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF_langs_count=8)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Igor-Wolf&_langs_count=8_bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
