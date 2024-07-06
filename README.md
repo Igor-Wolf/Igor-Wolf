@@ -1,18 +1,41 @@
 # Igor Reis Barbosa
 
-Olá, meu nome é Igor e sou formado em Engenharia Civil. Inclinação na área de programação começou quando fui monitor na matéria de Programação durante a graduação. Desde então me considero um entusiasta na área e busco sempre novas formas de aprender, mesmo sem tutores. 
+Olá, meu nome é Igor e sou formado em Engenharia Civil. Minha inclinação na área de programação começou quando fui monitor na matéria de Programação durante a graduação. Desde então me considero um entusiasta na área e busco sempre novas formas de aprender. 
 
 ## 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igor-reis-barbosa-4412901b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Igor-Wolf)
-[![Instagram](https://img.shields.io/badge/Instagram-708090?style=for-the-badge&logo=instagram)](https://www.instagram.com/igorreisbarbosa/) 
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/igorreisbarbosa/) 
 
 ## 💻 Skills
 
+[![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)](#)
+[![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+[![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+[![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white)](#)
+[![Godot](https://img.shields.io/badge/Godot-000?style=for-the-badge&logo=godot-engine&logoColor=478CBF)](#)
+[![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=FFFFFF)](#)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## GitHub stats
 
