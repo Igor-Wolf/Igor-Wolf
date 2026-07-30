@@ -43,7 +43,7 @@
       <code>📊 [CLASSE]:</code> Developer<br>
       <code>🎮 [SUB-CLASSE]:</code> Full-Stack<br>
       <code>🌍 [SERVER]:</code> Brasil (BR)<br>
-      <code>⚡ [XP]:</code><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00FF66&vCenter=true&width=180&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="XP Typing Bar" align="absmiddle" /><br>
+      <code>⚡ [XP]:</code><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00FF66&vCenter=true&width=260&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="XP Typing Bar" align="absmiddle" />
       <code>⭐ [Level]:</code> Júnior<br>
     </td>
   </tr>
