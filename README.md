@@ -79,9 +79,13 @@
 <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
 
+---
+
 ## 📈 GRÁFICO DE ATRIBUTOS
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Igor-Wolf&layout=compact&langs_count=10&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
 
 ## 🎧 CANAIS DE TRANSMISSÃO (CONTATO)
 
