@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>[CORE BOOT] Inicializando subsistemas... Acessando banco de dados neural... Status:   <img src="https://img.shields.io/badge/-%20ONLINE%20-00FF66?style=flat&color=00000000" alt="Online" align="absmiddle" /></em>
+  <em>[CORE BOOT] Inicializando subsistemas... Acessando banco de dados neural... Status:   <img src="https://img.shields.io/badge/-%20ONLINE%20-00FF66?style=for-t&color=00000000" alt="Online" align="absmiddle" /></em>
 </p>
 
 <div align="center" style="width: 100%; height: 300px; overflow: hidden;">
@@ -21,7 +21,7 @@
 
 ## 📜 BACKSTORY // LORE DO PERSONAGEM
 
-> *"Em um mundo onde linhas de código moldam a realidade e motores gráficos criam novos universos, cada bug é apenas um obstáculo a ser superado na jornada de compilação..."*
+> _"Em um mundo onde linhas de código moldam a realidade e motores gráficos criam novos universos, cada bug é apenas um obstáculo a ser superado na jornada de compilação..."_
 
 <p align="center">
   Um entusiasta buscando aprender sempre mais sobre programação e jogos. 
@@ -54,29 +54,38 @@
 ## 🎒 INVENTÁRIO DE HABILIDADES (TECH TREE)
 
 ### ⚔️ Front-End & Interface
-
-<p align="left"><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a></p>
+<br>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a><br>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a><br>
+<a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a><br>
+<a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a><br>
+<a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
 ### 🛡️ Back-End, Sistemas & Infra
-
-<p align="left"><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a> <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a> <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a></p>
+<br>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a><br>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a><br>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a><br>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a><br>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
 
 ### 📱 Mobile & Ferramentas
-
-<p align="left"><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a></p>
+<br>
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a><br>
+<a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 
 ### 🔮 Motores de Jogo (Game Engines)
-
-<p align="left"><a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a> <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a></p>
+<br>
+<a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a><br>
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
 
 ## 📈 GRÁFICO DE ATRIBUTOS
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Igor-Wolf&layout=compact&langs_count=10&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
 ## 🎧 CANAIS DE TRANSMISSÃO (CONTATO)
 
-<p align="center">
+<p align="center" >
   <a href="https://www.linkedin.com/in/igor-reis-barbosa-4412901b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Igor-Wolf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/igorreisbarbosa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -94,4 +103,3 @@
 <div align="center" style="width: 100%; height: 300px; overflow: hidden;">
   <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif" width="100%" style="margin-top: -30px;" alt="pixel-art-readme-gifs">
 </div>
-
