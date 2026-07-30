@@ -55,49 +55,37 @@
 
 ### ⚔️ Front-End & Interface
 
-<table align="left" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a></td>
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 0 0 0; background: transparent;"><a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a></td>
-  </tr>
-</table>
-<br clear="left"/>
+<p align="left">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+</p>
 
 ### 🛡️ Back-End, Sistemas & Infra
 
-<table align="left" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 0 0 0; background: transparent;"><a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a></td>
-  </tr>
-</table>
-<br clear="left"/>
+<p align="left">
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>&nbsp;
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
+</p>
 
 ### 📱 Mobile & Ferramentas
 
-<table align="left" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a></td>
-    <td style="border: none; padding: 0 0 0 0; background: transparent;"><a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a></td>
-  </tr>
-</table>
-<br clear="left"/>
+<p align="left">
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>&nbsp;
+  <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+</p>
 
 ### 🔮 Motores de Jogo (Game Engines)
 
-<table align="left" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; padding: 0 4px 0 0; background: transparent;"><a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 0 0 0; background: transparent;"><a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a></td>
-  </tr>
-</table>
-<br clear="left"/>
+<p align="left">
+  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>&nbsp;
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+</p>
 
 ## 📈 GRÁFICO DE ATRIBUTOS
 
