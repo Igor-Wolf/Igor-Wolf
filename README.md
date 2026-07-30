@@ -43,7 +43,7 @@
       <code>📊 [CLASSE]:</code> Developer<br>
       <code>🎮 [SUB-CLASSE]:</code> Full-Stack<br>
       <code>🌍 [SERVER]:</code> Brasil (BR)<br>
-      <code>⚡ [XP]:</code> [ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00FF66&vCenter=true&width=180&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="XP Typing Bar" align="absmiddle" />]<br>
+      <code>⚡ [XP]:</code><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00FF66&vCenter=true&width=180&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="XP Typing Bar" align="absmiddle" /><br>
       <code>⭐ [Level]:</code> Júnior<br>
     </td>
   </tr>
@@ -85,16 +85,13 @@
 
 ## 🎧 CANAIS DE TRANSMISSÃO (CONTATO)
 
-<p align="center" >
+<p align="left" >
   <a href="https://www.linkedin.com/in/igor-reis-barbosa-4412901b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Igor-Wolf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/igorreisbarbosa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://faker-zero.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/sqre/39f212b1-1d43-4676-8785-f0b86bc9c220.gif" width="30%" alt="pixel-art-readme-gifs">
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=60&section=footer" width="100%" />
